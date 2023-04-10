@@ -1,7 +1,7 @@
 <div align="right">
 	<a href="https://github.com/celinechoi"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcelinechoi&count_bg=%23B897FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,30&height=250&section=header&text=Hello (●'◡'●)&fontSize=40&animation=fadeIn&fontColor=f0f0f0&fontAlign=50&&fontAlignY=34&desc=웹퍼블리셔&ensp;진슬이의&ensp;깃허브입니다.🌊&descSize=22&&descAlign=50&descAlignY=55">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,30&height=250&section=header&text=Hello&ensp;(●'◡'●)&fontSize=40&animation=fadeIn&fontColor=f0f0f0&fontAlign=50&&fontAlignY=34&desc=웹퍼블리셔&ensp;진슬이의&ensp;깃허브입니다.🌊&descSize=22&&descAlign=50&descAlignY=55">
 <div align="center">
 	🔑TECH STACK
 </div>

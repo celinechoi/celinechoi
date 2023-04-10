@@ -1,7 +1,7 @@
 <div align="right">
 	<a href="https://github.com/celinechoi"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcelinechoi&count_bg=%23B897FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,30&height=250&section=header&text=Hello&ensp;(●'◡'●)&fontSize=40&animation=fadeIn&fontColor=f0f0f0&fontAlign=50&&fontAlignY=34&desc=WebPublisher&ensp;Jinseul's&ensp;Github🌊&descSize=22&&descAlign=50&descAlignY=55">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,30&height=250&section=header&text=Hello&ensp;(●'◡'●)&fontSize=40&animation=fadeIn&fontColor=f0f0f0&fontAlign=50&&fontAlignY=34&desc=WebPublisher&ensp;진슬's&ensp;Github🌊&descSize=22&&descAlign=50&descAlignY=55">
 <div align="center">
 	<h2>📚TECH STACK📚</h2>
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">

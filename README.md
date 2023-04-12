@@ -6,7 +6,7 @@
 <div align="center">
 
 ## 🌈 Welcome to 진슬's Github Repositories 👋 
-#### 🌱 I’m currently interested in `React`, `SASS`
+### 🌱 I’m currently interested in `React`, `SASS`
 </dv>
 
 <br>
@@ -19,6 +19,7 @@
 	<h3>🎨MY SNS🖌</h3>
 	<a href="https://jintrue.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </div>
+<hr>
 <div align="center">
 	<h3>📚TECH STACK📚</h3>
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
@@ -33,6 +34,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> 
 </div>
+<hr>
 <div align="center">
 	<h3>🤓CERTIFICATE🤓</h3>
 	<img src="https://img.shields.io/badge/정보처리기사-01345B?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/GTQ-그래픽기술자격1급-0DB14B?style=for-the-badge&logoColor=white">

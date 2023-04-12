@@ -2,13 +2,14 @@
 	<a href="https://github.com/celinechoi"><img src="https://komarev.com/ghpvc/?username=celinechoi&label=Profile%20views&color=B897FF&style=flat" alt="celine"></a>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,30&height=250&section=header&text=Hello&ensp;(●'◡'●)&fontSize=40&animation=fadeIn&fontColor=f0f0f0&fontAlign=50&&fontAlignY=34&desc=WebPublisher&ensp;진슬's&ensp;Github🌊&descSize=22&&descAlign=50&descAlignY=55">
+
 ### 🌈 Welcome to 진슬's Github Repositories 👋 
 
 - 🌱 I’m currently interested in `React`, `SASS`
 <br>
 <div style="display: flex, height:180px">
 	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinechoi&langs_count=8&layout=compact&theme=nord&hide_border=true" alt="celine github most used languages"></a>
-	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="celine github stats" /></a>
+	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=celinechoi&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="celine github stats" /></a>
 </div>
 
 <div align="center">

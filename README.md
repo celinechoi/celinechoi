@@ -3,6 +3,10 @@
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,30&height=250&section=header&text=Hello&ensp;(●'◡'●)&fontSize=40&animation=fadeIn&fontColor=f0f0f0&fontAlign=50&&fontAlignY=34&desc=WebPublisher&ensp;진슬's&ensp;Github🌊&descSize=22&&descAlign=50&descAlignY=55">
 <div align="center">
+	<h2>🎨MY SNS🖌</h2>
+	<a href="https://jintrue.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"></a>
+</div>
+<div align="center">
 	<h2>📚TECH STACK📚</h2>
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 	<br>

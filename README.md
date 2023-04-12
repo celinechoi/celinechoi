@@ -24,4 +24,4 @@
 	<h2>🤓CERTIFICATE🤓</h2>
 	<img src="https://img.shields.io/badge/정보처리기사-01345B?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/GTQ-그래픽기술자격1급-0DB14B?style=for-the-badge&logoColor=white">
 </div>
-<a href="https://github.com/celinechoi"><img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinechoi&langs_count=8&layout=compact&theme=nord&hide_border=true"></a>
+<a href="https://github.com/celinechoi?tab=repositories" style="display: block; margin-top: 20px;"><img align="center" style="width: 100%; height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinechoi&langs_count=8&layout=compact&theme=nord&hide_border=true"></a>

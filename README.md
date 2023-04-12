@@ -2,6 +2,15 @@
 	<a href="https://github.com/celinechoi"><img src="https://komarev.com/ghpvc/?username=celinechoi&label=Profile%20views&color=B897FF&style=flat" alt="celine"></a>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,30&height=250&section=header&text=Hello&ensp;(●'◡'●)&fontSize=40&animation=fadeIn&fontColor=f0f0f0&fontAlign=50&&fontAlignY=34&desc=WebPublisher&ensp;진슬's&ensp;Github🌊&descSize=22&&descAlign=50&descAlignY=55">
+### 🌈 Welcome to 진슬's Github Repositories 👋 
+
+- 🌱 I’m currently interested in `React`, `SASS`
+<br>
+<div style="display: flex, height:180px">
+	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinechoi&langs_count=8&layout=compact&theme=nord&hide_border=true" alt="celine github most used languages"></a>
+	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="celine github stats" /></a>
+</div>
+
 <div align="center">
 	<h2>🎨MY SNS🖌</h2>
 	<a href="https://jintrue.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"></a>
@@ -24,4 +33,3 @@
 	<h2>🤓CERTIFICATE🤓</h2>
 	<img src="https://img.shields.io/badge/정보처리기사-01345B?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/GTQ-그래픽기술자격1급-0DB14B?style=for-the-badge&logoColor=white">
 </div>
-<a href="https://github.com/celinechoi?tab=repositories" style="display: block; margin-top: 20px;"><img align="center" style="width: 100%; height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinechoi&langs_count=8&layout=compact&theme=nord&hide_border=true"></a>

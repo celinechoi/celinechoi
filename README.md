@@ -11,7 +11,7 @@
 
 <br>
 <div align="center">
-	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinechoi&langs_count=8&layout=compact&theme=nord&hide_border=true" alt="celine github most used languages"></a>
+	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinechoi&langs_count=10&layout=compact&theme=nord&hide_border=true" alt="celine github most used languages"></a>
 	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=celinechoi&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="celine github stats" /></a>
 </div>
 

@@ -1,12 +1,12 @@
 <div align="right">
 	<a href="https://github.com/celinechoi"><img src="https://komarev.com/ghpvc/?username=celinechoi&label=Profile%20views&color=B897FF&style=flat" alt="celine"></a>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,30&height=185&section=header&text=Hello&ensp;(●'◡'●)&fontSize=40&animation=fadeIn&fontColor=f0f0f0&fontAlign=50&&fontAlignY=30&desc=WebPublisher&ensp;진슬's&ensp;Github🌊&descSize=22&&descAlign=50&descAlignY=55">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,30&height=185&section=header&text=Hello&ensp;(●'◡'●)&fontSize=40&animation=fadeIn&fontColor=f0f0f0&fontAlign=50&&fontAlignY=30&desc=WebPublisher&ensp;HanSoL's&ensp;Github🌊&descSize=22&&descAlign=50&descAlignY=55">
 
 <div align="center">
 
-## 🌼 Welcome to 진슬's Github Repositories 👋 
-### 🌱 I’m currently interested in `React`, `SASS`
+## 🌼 Welcome to HanSoL's Github Repositories 👋 
+### 🌱 I’m currently interested in `React`, `SCSS(SASS Upgrade↑)`
 </dv>
 
 <br>

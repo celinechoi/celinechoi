@@ -12,6 +12,7 @@
 <br>
 <div align="center">
 	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinechoi&langs_count=10&layout=compact&theme=nord&hide_border=true" alt="celine github most used languages"></a>
+	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=celinechoi&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="celine github stats" /></a>
 </div>
 
 <div align="center">
@@ -38,5 +39,5 @@
 	<h3>🤓CERTIFICATE🤓</h3>
 	<img src="https://img.shields.io/badge/정보처리기사-01345B?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/GTQ-그래픽기술자격1급-0DB14B?style=for-the-badge&logoColor=white">
 </div>
-<hr>
-<p>Copyright © 2023, HanSoL</p>
+<br>
+<p>© 2023. HanSoL all rights reserved.</p>

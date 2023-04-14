@@ -39,5 +39,6 @@
 	<h3>🤓CERTIFICATE🤓</h3>
 	<img src="https://img.shields.io/badge/정보처리기사-01345B?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/GTQ-그래픽기술자격1급-0DB14B?style=for-the-badge&logoColor=white">
 </div>
-<br>
-<p>© 2023. HanSoL all rights reserved.</p>
+<div align="right">
+	<p>© 2023. HanSoL all rights reserved.</p>
+</div>

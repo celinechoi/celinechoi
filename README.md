@@ -5,8 +5,8 @@
 
 <div align="center">
 
-## 🌼 Welcome to Jinseul's Github Repositories 👋 
-### 🌱 I’m currently interested in `React`, `SCSS(SASS Upgrade↑)`
+## 🌼 Welcome to Jay's Github Repositories 👋 
+### 🌱 I’m currently interested in `React`, `SCSS`
 </dv>
 
 <br>
@@ -41,5 +41,5 @@
 </div>
 <br>
 <div align="center">
-	<p style="color:gray">© 2023. Jinseul all rights reserved.</p>
+	<p style="color:gray">© 2023 - 2025. Jay all rights reserved.</p>
 </div>

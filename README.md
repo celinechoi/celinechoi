@@ -6,7 +6,7 @@
 <div align="center">
 
 ## 🌼 Welcome to Jay's Github Repositories 👋 
-### 🌱 I’m currently interested in `React`, `SCSS`
+### 🌱 I’m currently interested in `GSAP plugin`
 </dv>
 
 <br>
